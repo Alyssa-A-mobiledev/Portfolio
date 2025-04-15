@@ -1,8 +1,8 @@
 {
+"homepage": "https://alyssa-a-mobiledev.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Alyssa-A-mobiledev/Portfolio.git",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
